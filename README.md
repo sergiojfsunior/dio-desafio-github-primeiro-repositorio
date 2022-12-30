@@ -1,5 +1,5 @@
-# Desafio de Projeto sobre Git/Github da Dio
-Repositório criado para o Desafio de Projeto.
+## Desafio de Projeto sobre Git/Github da Dio - 28/12/2022
+Repositório criado para o Desafio de Projeto //
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
